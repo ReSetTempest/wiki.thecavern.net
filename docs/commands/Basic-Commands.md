@@ -1,7 +1,7 @@
-			
+# Basic Commands
 
                            	
-# Essentials                           	
+## Essentials                           	
 
 |               Command              	|                           Desciption                          	|              Example              	| 
 |:----------------------------------:	|:---------------------------------------------------------------:	|:---------------------------------:	|
@@ -24,7 +24,7 @@
 |                 /cl                	|                     Display the chunk limit                     	|                                   	| 
 |                 /sb                	|                     Hide/Show the scoreboard                    	|                                   	| 
 
-# Channel commands                        
+## Channel commands                        
 
 |               Command              	|                           Desciption                          	|
 |:----------------------------------:	|:---------------------------------------------------------------:	|
@@ -36,7 +36,7 @@
 |                                    	|                                                                 	|
 
                                   	                           
-# Player warp's  
+## Player warp's  
 
 |               Command              	|                           Desciption                          	|              Example              	| Rank required 	|
 |:----------------------------------:	|:---------------------------------------------------------------:	|:---------------------------------:	|:-------------:	|
@@ -56,14 +56,14 @@
 |         /pw desc set/remove        	|                  Makes a description of a warp                  	| /pw desc set/remove Feesh Fishing 	|    Squire +   	|
 |             /pw amount             	|                See how many player warps you own                	|                                   	|    Squire +   	|
 
-# Auction house                          	
+## Auction house                          	
 |               Command              	|                           Desciption                          	|              Example              	| Rank required 	|
 |:----------------------------------:	|:---------------------------------------------------------------:	|:---------------------------------:	|:-------------:	|
 |                 /ah                	|                     Opens the auction house                     	|                                   	|    Merchant   	|
 |      /ah sell (Price) (Amount)     	|              Sells the current item you are holding             	|          /ah sell 1000 2          	|    Merchant   	|
 |          /ah search (item)         	|               Search the auction house for an item              	|          /ah search book          	|    Merchant   	|
 
-# Marry                         
+## Marry                         
 |               Command              	|                           Desciption                          	|              Example              	|
 |:----------------------------------:	|:---------------------------------------------------------------:	|:---------------------------------:	|
 |            /marry (user)           	|                  Send a marry request to a user                 	|            /marry Inorl           	|
@@ -77,6 +77,36 @@
 |             /marry heal            	|                 Send your health to your partner                	|                                   	|
 |             /marry chat            	|                     Enable partner-only chat                    	|                                   	|
 |           /marry divorce           	|                   Divorce your current partner                  	|                                   	|
-|
- 
-                                                                
+
+
+ ## Jobs
+|               Command              	|                           Desciption                  |
+|:----------------------------------:	|:-----------------------------------------------------:|                                                              
+| /jobs archive [playername]    	| List archived jobs                                 	|
+| /jobs blockinfo               	| List of blocks for a current job                   	|
+| /jobs bonus [jobname]         	| List of bonuses for a job                          	|
+| /jobs browse                  	| Brows a list of all jobs                           	|
+| /jobs clearownership          	| Clears ownership of furnaces/smokers/blast furnace 	|
+| /jobs gtop                    	| List of top players in a current job               	|
+| /jobs info [jobname] [action] 	| List of what action will pay out for a current job 	|
+| /jobs join [jobname]          	| Joins a job                                        	|
+
+
+## Chest shop
+|               Command         |                 Desciption		        |
+|:----------------------------: |:---------------------------------------------:|
+| /chestshop about            	| Shows QuickShop info                        	|
+| /chestshop amount           	| To set the amount of items                  	|
+| /chestshop buy              	| Changes a shop to BUY moded                 	|
+| /chestshop fetchmessage     	| Show unread shop messages                   	|
+| /chestshop find <item>      	| Locates the nearest shop of a specific type 	|
+| /chestshop help             	| Shows the QuickShop help                    	|
+| /chestshop item             	| Change shop item of a shop                  	|
+| /chestshop price            	| Changes the buy/sell price of a shop        	|
+| /chestshop remove           	| Removes the shop you're looking ata         	|
+| /chestshop sell             	| Change a shop to SELL mode                  	|
+| /chestshop staff            	| Manage your shop staff                      	|
+| /chestshop staff add <name> 	| Adds someone as a shop staff                	|
+| /chestshop staff clear      	| Remove all shop staff                       	|
+| /chestshop staff del <name> 	| Removes someone as a shop staff             	|
+| /chestshop staff list       	| List everey shop staff                      	|
