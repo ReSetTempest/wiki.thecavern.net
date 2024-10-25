@@ -110,3 +110,11 @@
 | /chestshop staff clear      	| Remove all shop staff                       	|
 | /chestshop staff del <name> 	| Removes someone as a shop staff             	|
 | /chestshop staff list       	| List everey shop staff                      	|
+
+
+## Quest
+|        Command           | Description                 |
+| ------------------------ | --------------------------- |
+| /quest                   | Show quests                 |
+| /quest  cancel [questid] | Cancel active quest by name |
+| /quest started           | Show started quests         |
