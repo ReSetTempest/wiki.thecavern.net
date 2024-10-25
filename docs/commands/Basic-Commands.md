@@ -93,7 +93,7 @@
 
 
 ## Chest shop
-|               Command         |                 Desciption		        |
+|               Command         |                 Desciption		                |
 |:----------------------------: |:---------------------------------------------:|
 | /chestshop about            	| Shows QuickShop info                        	|
 | /chestshop amount           	| To set the amount of items                  	|
@@ -118,3 +118,52 @@
 | /quest                   | Show quests                 |
 | /quest  cancel [questid] | Cancel active quest by name |
 | /quest started           | Show started quests         |
+
+
+## MyPet
+| Command             | Description                           |
+| ------------------- | ------------------------------------- |
+| /mypet              | Help for all pet commands             |
+| /petbeacon          | Open pet beaacon menu                 |
+| /petbehavior        | Changes the behavior mode of your pet |
+| /petcall            | Calls your pet                        |
+| /petcapturehelper   | Toogles the CaptureHelper on/off      |
+| /petchooseskilltree | Chooses a skilltree                   |
+| /petinfo            | Shows info about your pet             |
+| /petinventory       | Opens the inventory of your pet       |
+| /petlist            | Lists all your pet                    |
+| /petname            | Changes the name of your pet          |
+| /petpickup          | Toggles pickup of your pet            |
+| /petrelease         | Releases your pet                     |
+| /petsendaway        | Send your pet away                    |
+| /petsettings        | Change your pet settings              |
+| /petskill           | Shows the skill levels of your pet    |
+| /petswitch          | Opens a pet selection GUI             |
+| /petstop            | Stops your pet from attacking         |
+
+
+## Party
+
+|                                 |                                                                 |                 |
+| ------------------------------- | --------------------------------------------------------------- | --------------- |
+| Command                         | Description                                                     | Party level     |
+| /party ?                        | Open party help menu                                            |                 |
+| /party join <player> [password] | Join a party                                                    |                 |
+| /party create <name> [password] | Create a party                                                  |                 |
+| /party quit                     | Leave a party                                                   |                 |
+| /party password <passord>       | Set or change a party password (set empty to remove a password) |                 |
+| /party kick <player>            | Kicks a member of a party                                       |                 |
+| /party leader <player>          | Set another party member as a new leader                        |                 |
+| /party owner <player>           | Set another party member as a new leader                        |                 |
+| /party disband                  | Disband a party                                                 |                 |
+| /party chat                     | Toggles party chat                                              | Party Level 1+  |
+| /party teleport                 | Teleport to another member of the party                         | Party Level 2+  |
+| /party alliance                 | Add another party as ally                                       | Party Level 5+  |
+| /party itemshare                | Share items obtained with other party members                   | Party Level 8+  |
+| /party xpshare                  | Share exp gained with other party members                       | Party Level 10+ |
+| /party accept                   | Accept a party invite                                           |                
+| /party invite                   | Invite another player to the party                              |                 
+| /party info                     | Get your party information                                      |                
+| /party lock                     | Disable ininvited join                                          |                  
+| /party unlock                   | Enable ininvited join                                           |               
+| /party rename <name>            | Rename a party                                                  |
